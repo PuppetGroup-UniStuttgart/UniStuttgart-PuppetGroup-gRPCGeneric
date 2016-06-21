@@ -5,7 +5,7 @@ option java_package = "cloudlab.GenericOpsProto";
 option java_outer_classname = "GenericOpsProto";
 option objc_class_prefix = "EC";
 
-package EC2OpsProto;
+package cloudlab.GenericOpsProto;
 
 // The greeting service definition.
 service GenericOps {
