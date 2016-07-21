@@ -20,6 +20,5 @@ Method Name: create
     publicIP: Public IP of the Amazon EC2 instance in order to initiate session  
     moduleName: Name of the Puppet Module which is to be deployed onto the EC2 instance (As available in the Puppet Forge)  
     installFile: Git link where install.pp file is present. This is required to run the Puppet Module
-	
-NOTE: Please maintain order of input to the method if you are manually invoking the API & naming convention
+
 
