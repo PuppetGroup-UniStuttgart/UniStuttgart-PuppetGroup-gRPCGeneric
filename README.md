@@ -1,4 +1,4 @@
-# CloudLab-IAAS-UniStuttgart-Part2-gRPCGeneric
+# UniStuttgart-PuppetGroup-gRPCGeneric
 Java project of Generic gRPC API
 
 ####Generic gRPC:
